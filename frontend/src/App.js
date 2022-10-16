@@ -1,6 +1,9 @@
 import './App.css';
 import React, { Component } from 'react';
 import Home from './components/Home';
+import Map from './components/Map';
+import Timeline from './components/Timeline';
+import Upload from './components/Upload';
 
 class App extends Component {
 
